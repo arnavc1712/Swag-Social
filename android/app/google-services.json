@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325990031022",
+    "firebase_url": "https://socket-server-270005.firebaseio.com",
+    "project_id": "socket-server-270005",
+    "storage_bucket": "socket-server-270005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325990031022:android:658856781f2828c2b9173f",
+        "android_client_info": {
+          "package_name": "com.chirpreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325990031022-r64sedttdkr4chvlk468pocpqdeo1cvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFSOUlfzcfVoo-TVWhkExyXf0IaqUqcmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325990031022-edebh0blfti3hsmmpges51vnrdl6292l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
